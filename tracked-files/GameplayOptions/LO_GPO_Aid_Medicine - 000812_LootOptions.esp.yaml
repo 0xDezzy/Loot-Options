@@ -1,13 +1,13 @@
-FormKey: 000810:LootOptions.esp
-EditorID: LO_GPO_Aid_Food
+FormKey: 000812:LootOptions.esp
+EditorID: LO_GPO_Aid_Medicine
 FormVersion: 559
 Title:
   TargetLanguage: English
-  Value: Food Abundance
+  Value: Medicine Abundance
 Description:
   TargetLanguage: English
   Value: >-
-    Sets how abundant or scarce food is.
+    Sets how abundant or scarce medicine is.
 
 
     {0}
@@ -32,7 +32,7 @@ GPOD:
 SliderEntries:
 - Description:
     TargetLanguage: English
-    Value: '{0}: Food is extremely hard to find.'
+    Value: '{0}: Medicine is extremely hard to find.'
   SliderIndex: 0
   Name:
     TargetLanguage: English
@@ -40,7 +40,7 @@ SliderEntries:
   XpMultiplier: 4
 - Description:
     TargetLanguage: English
-    Value: '{0}: Food is less common than usual.'
+    Value: '{0}: Medicine is less common than usual.'
   SliderIndex: 1
   Name:
     TargetLanguage: English
@@ -48,7 +48,7 @@ SliderEntries:
   XpMultiplier: 2
 - Description:
     TargetLanguage: English
-    Value: '{0}: Food appears at the default rate.'
+    Value: '{0}: Medicine appears at the default rate.'
   SliderIndex: 2
   Name:
     TargetLanguage: English
@@ -56,7 +56,7 @@ SliderEntries:
   XpMultiplier: 0
 - Description:
     TargetLanguage: English
-    Value: '{0}: Food is more common than usual.'
+    Value: '{0}: Medicine is more common than usual.'
   SliderIndex: 3
   Name:
     TargetLanguage: English
@@ -64,7 +64,7 @@ SliderEntries:
   XpMultiplier: 0
 - Description:
     TargetLanguage: English
-    Value: '{0}: Food is very easy to find.'
+    Value: '{0}: Medicine is very easy to find.'
   SliderIndex: 4
   Name:
     TargetLanguage: English
