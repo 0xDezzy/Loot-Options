@@ -8,5 +8,4 @@ ModHeader:
   Author: DEFAULT
   MasterReferences:
   - Master: Starfield.esm
-  - Master: BlueprintShips-Starfield.esm
   BNAM: 0x4D61696E00
