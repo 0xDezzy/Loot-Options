@@ -32,20 +32,20 @@ GPOD:
 SliderEntries:
 - Description:
     TargetLanguage: English
-    Value: '{0}: Medicine is extremely hard to find.'
+    Value: '{0}: Medicine is very easy to find.'
   SliderIndex: 0
   Name:
     TargetLanguage: English
-    Value: RARE
-  XpMultiplier: 4
+    Value: ABUNDANT
+  XpMultiplier: 0
 - Description:
     TargetLanguage: English
-    Value: '{0}: Medicine is less common than usual.'
+    Value: '{0}: Medicine is more common than usual.'
   SliderIndex: 1
   Name:
     TargetLanguage: English
-    Value: SCARCE
-  XpMultiplier: 2
+    Value: PLENTIFUL
+  XpMultiplier: 0
 - Description:
     TargetLanguage: English
     Value: '{0}: Medicine appears at the default rate.'
@@ -56,17 +56,17 @@ SliderEntries:
   XpMultiplier: 0
 - Description:
     TargetLanguage: English
-    Value: '{0}: Medicine is more common than usual.'
+    Value: '{0}: Medicine is less common than usual.'
   SliderIndex: 3
   Name:
     TargetLanguage: English
-    Value: PLENTIFUL
-  XpMultiplier: 0
+    Value: SCARCE
+  XpMultiplier: 2
 - Description:
     TargetLanguage: English
-    Value: '{0}: Medicine is very easy to find.'
+    Value: '{0}: Medicine is extremely hard to find.'
   SliderIndex: 4
   Name:
     TargetLanguage: English
-    Value: ABUNDANT
-  XpMultiplier: 0
+    Value: RARE
+  XpMultiplier: 4

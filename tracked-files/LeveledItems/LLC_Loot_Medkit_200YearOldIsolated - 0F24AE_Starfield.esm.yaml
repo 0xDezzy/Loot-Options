@@ -1,0 +1,90 @@
+FormKey: 0F24AE:Starfield.esm
+MajorRecordFlagsRaw: 32768
+EditorID: LLC_Loot_Medkit_200YearOldIsolated
+FormVersion: 559
+Version2: 2
+StarfieldMajorRecordFlags:
+- VisibleWhenDistant
+ODTY: 0
+MaxCount: 0
+Flags:
+- UseAll
+Entries:
+- Level: 1
+  Unused: 19903
+  Reference: 03197B:Starfield.esm
+  Count: 1
+  ChanceNone: 0.35294117647058826
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    Unknown1: 0xEB1584
+    Unknown2: 16610
+    Data:
+      MutagenObjectType: UnknownConditionData
+      Reference: FF0000:LootOptions.esp
+      Unknown3: 1447886847
+      Function: 2066
+      ParameterOne: 256
+    ComparisonValue: 4
+- Level: 1
+  Unused: 19903
+  Reference: 03197B:Starfield.esm
+  Count: 1
+  ChanceNone: 0.19607843137254902
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    Unknown1: 0xEB1584
+    Unknown2: 16610
+    Data:
+      MutagenObjectType: UnknownConditionData
+      Reference: FF0000:LootOptions.esp
+      Unknown3: 1447886847
+      Function: 2066
+      ParameterOne: 256
+    ComparisonValue: 3
+- Level: 1
+  Unused: 19903
+  Reference: 03197B:Starfield.esm
+  Count: 1
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    Unknown1: 0xEB1584
+    Unknown2: 16610
+    Data:
+      MutagenObjectType: UnknownConditionData
+      Reference: FF0000:LootOptions.esp
+      Unknown3: 1447886847
+      Function: 2066
+      ParameterOne: 256
+    ComparisonValue: 2
+- Level: 1
+  Unused: 19903
+  Reference: 03197B:Starfield.esm
+  Count: 3
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    Unknown1: 0xEB1584
+    Unknown2: 16610
+    Data:
+      MutagenObjectType: UnknownConditionData
+      Reference: FF0000:LootOptions.esp
+      Unknown3: 1447886847
+      Function: 2066
+      ParameterOne: 256
+    ComparisonValue: 1
+- Level: 1
+  Unused: 19903
+  Reference: 03197B:Starfield.esm
+  Count: 5
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    Unknown1: 0xEB1584
+    Unknown2: 16610
+    Data:
+      MutagenObjectType: UnknownConditionData
+      Reference: FF0000:LootOptions.esp
+      Unknown3: 1279721471
+      Function: 2066
+      ParameterOne: 256
+Model:
+  FLLD: 0x01000000
