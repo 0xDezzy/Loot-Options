@@ -4,6 +4,8 @@ SpriggitSource:
 ModKey: LootOptions.esp
 GameRelease: Starfield
 ModHeader:
+  Flags:
+  - Light
   FormVersion: 559
   Author: DEFAULT
   MasterReferences:
