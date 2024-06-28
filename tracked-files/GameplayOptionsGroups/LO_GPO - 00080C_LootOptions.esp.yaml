@@ -1,0 +1,11 @@
+FormKey: 00080C:LootOptions.esp
+EditorID: LO_GPO
+FormVersion: 559
+Title:
+  TargetLanguage: English
+  Value: Loot Options
+BNAM: 0x01
+Options:
+- 00080D:LootOptions.esp
+- 00080E:LootOptions.esp
+- 00080F:LootOptions.esp

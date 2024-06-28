@@ -1,0 +1,15 @@
+FormKey: 000810:LootOptions.esp
+EditorID: LO_GPO_Aid_Food
+FormVersion: 559
+Title:
+  TargetLanguage: English
+  Value: Food Abundance
+Description:
+  TargetLanguage: English
+  Value: ''
+TNAM: 0x01
+DefaultIndex: 0x00000000
+WNAM: 0x00000000
+GPOD:
+  Unknown2: 1
+  Unknown3: 1

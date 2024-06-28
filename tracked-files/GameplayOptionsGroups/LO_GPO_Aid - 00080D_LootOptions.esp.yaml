@@ -1,0 +1,9 @@
+FormKey: 00080D:LootOptions.esp
+EditorID: LO_GPO_Aid
+FormVersion: 559
+Title:
+  TargetLanguage: English
+  Value: Aid Items
+BNAM: 0x00
+Options:
+- 000810:LootOptions.esp
